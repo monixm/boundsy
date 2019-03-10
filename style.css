@@ -1,0 +1,175 @@
+body {
+  color: #b2b2b2;
+  font-weight: lighter;
+  font-family: 'Raleway', sans-serif !important;
+}
+
+h2 {
+  color: #545252 !important;
+  letter-spacing: 1px;
+}
+
+h6 {
+  letter-spacing: 1px;
+}
+
+.fa-grip-lines-vertical {
+  color: #cfcfcf;
+}
+
+/* Navbar */
+.cart,
+.login,
+.incentives p {
+  color: #b2b2b2;
+  font-weight: lighter;
+  letter-spacing: 1px;
+}
+
+.sale {
+  color: #e45555 !important;
+}
+
+.main-menu-full {
+  border-top: #dad3d3 1px solid;
+  border-bottom: #dad3d3 1px solid;
+}
+
+.main-menu a {
+  color: #474646;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+.incentives p {
+  display: inline;
+  letter-spacing: 1.5px;
+  font-size: 14px !important;
+}
+
+.carousel-inner {
+  height: 550px;
+}
+
+/* Short info About Us */
+.short-info p {
+  color: #a09999;
+  letter-spacing: 0.8px;
+  font-weight: lighter;
+}
+
+.about {
+  background-color: #fff;
+  height: 350px;
+  /* transform: translate(-40px, 60px); */
+}
+
+.szarosc {
+  height: 100px;
+  background-color: rgba(222, 218, 218, 0.32);
+}
+
+/* Featured products */
+.szarosc-2 {
+  transform: translate(0px, -109px);
+}
+
+.featured {
+  transform: translate(-100px, -50px);
+  background-color: #fff;
+}
+
+.featured a {
+  text-decoration: none;
+  color: #b2b2b2;
+  font-weight: lighter;
+}
+
+/* Male & Female section */
+.male {
+  height: 500px;
+  /* background-image: url('https://images.unsplash.com/photo-1511132174062-12cf5c2a94c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'); */
+  background-image: url('https://images.unsplash.com/photo-1520472665065-73fd93753426?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+  background-position: 50% 70%;
+  background-size: cover;
+}
+
+.his-way {
+  color: #fdf6f6 !important;
+  font-family: 'Dancing Script', cursive !important;
+}
+
+.box-1 {
+  width: 350px;
+  transform: translate(150px, 70px);
+}
+
+.female {
+  height: 500px;
+  background-image: url('https://images.unsplash.com/photo-1542838687-936f417d2f37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.female .box-2 {
+  width: 400px;
+  transform: translate(800px, 150px);
+  padding: 0;
+  margin: 0;
+}
+
+.her-way {
+  color: #ce8b8b !important;
+  font-family: 'Dancing Script', cursive !important;
+}
+
+.female-button {
+  color: #ce8b8b !important;
+}
+/* Features of the products */
+.background-1 {
+  height: 200px;
+  background-image: url('https://images.unsplash.com/photo-1511512013281-aab957553e75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
+  background-position: 50% 70%;
+  background-size: cover;
+}
+
+.background-2 {
+  height: 200px;
+  background-image: url('https://images.unsplash.com/photo-1542841366-c08a2567da87?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.background-3 {
+  height: 200px;
+  background-image: url('https://images.unsplash.com/photo-1511804609435-c41e7b518c55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.background-4 {
+  height: 200px;
+  background-image: url('https://images.unsplash.com/photo-1510535052058-296f988c8eb7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+/* Newsletter */
+.newsletter {
+  background-color: rgba(232, 232, 232, 0.32);
+  height: 250px;
+}
+
+.form-control {
+  width: 300px !important;
+}
+
+/* Footer */
+.footer {
+  background-color: rgb(248, 248, 248);
+}
+
+.logo-bottom {
+  transform: translate(180px, 10px);
+}
